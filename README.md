@@ -41,9 +41,34 @@
 - The "RecentNews" component is a visually appealing section that presents the latest news or updates related to various brands or platforms. It is designed to engage users with captivating images, informative headlines, and publication dates. The component is designed to be responsive and dynamic, making use of animations to enhance the user experience. The section is divided into a grid layout, displaying multiple news articles side by side. Each article is represented by a prominent background image, which adds a visual element to the news. The publication date and brand name are displayed at the top, and the headline of the news article is prominently featured in the center. The choice of background images and the color palette, along with the font styles, contribute to the overall aesthetics of the component. Users can click on the headlines to access the full articles. The dynamic animations, such as fading in elements with specific durations, create an engaging and visually pleasing effect. Overall, the "RecentNews" component provides an effective way to showcase and highlight recent news articles or updates in a visually appealing and user-friendly manner.
 
 
+<h3>Technologies Used:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,tailwind,react,firebase,express,mongodb,nodejs,git,github" />
+  </a>
+</p>
 
 
+## Installation Guide
 
+This guide explains how other users can install and run your project.
+
+### 1. View the Live Website
+
+Firstly, you need to see your website in action. Visit [this link](https://your-website-url.com) to do so.
+
+### 2. Clone the Project
+
+To clone the project to your local machine, use the following command:
+
+```bash
+git clone https://github.com/your-username/your-project.git
+
+```bash
+npm install
+
+```js
+Feel free to replace placeholder texts like `your-username`, `your-project`, and `your-website-url.com` with the actual information relevant to your project.
 
 
 
