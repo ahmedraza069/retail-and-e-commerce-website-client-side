@@ -70,7 +70,7 @@ npm install
 ```bash
 npm start
 
-```js
+```bash
 Feel free to replace placeholder texts like `your-username`, `your-project`, and `your-website-url.com` with the actual information relevant to your project.
 
 
