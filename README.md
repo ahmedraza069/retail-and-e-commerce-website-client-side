@@ -55,7 +55,7 @@ This guide explains how other users can install and run your project.
 
 ### 1. View the Live Website
 
-Firstly, you need to see your website in action. Visit [this link](https://your-website-url.com) to do so.
+Firstly, you need to see your website in action. Visit [this link](https://github.com/ahmedraza069/retail-and-e-commerce-website-client-side/tree/main) to do so.
 
 ### 2. Clone the Project
 
@@ -66,6 +66,9 @@ git clone https://github.com/your-username/your-project.git
 
 ```bash
 npm install
+
+```bash
+npm start
 
 ```js
 Feel free to replace placeholder texts like `your-username`, `your-project`, and `your-website-url.com` with the actual information relevant to your project.
